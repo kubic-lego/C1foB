@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @C1foB
+- 👋 Hi, I’m @kubic-lego
 - 👀 I’m interested in c++
 - 🌱 I’m currently learning c++ and java
 
